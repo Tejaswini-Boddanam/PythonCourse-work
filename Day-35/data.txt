@@ -1,0 +1,9 @@
+Data analysis means looking for data and understanding it and provide useful information for it
+Data Analysis = Raw Data → Study the Data → Find Useful Information → Make Decisions
+
+Types of Data Analysis:
+1.Descriptive Analysis
+2.Diagnostic Analysis
+3.Predictive Analysis
+4.Prescriptive Analysis
+
